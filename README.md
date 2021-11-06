@@ -3,7 +3,7 @@
 
 # Bimbim
 
-> Nama saya Bimbim esaputra dan saya seorang pemula bang wkwkw jangan bumliy!
+> Bukan programmer hanya tukang recode
 >
 >
 
