@@ -17,7 +17,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Bimbim15/Bimbim15/blob/Bimbim15/ezgif.com-gif-maker.gif" />
+  <img src="https://github.com/Bimbim15/Bimbim15/blob/f1ff942b183bd5156ead2374878aaf65e265d9b8/ezgif.com-gif-maker.gif" />
 </p>
 
 
