@@ -17,6 +17,11 @@
 </p>
 
 <p align="center">
+  <img src="https://github.com/Bimbim15/Bimbim15/blob/Bimbim15/ezgif.com-gif-maker.gif" />
+</p>
+
+
+<p align="center">
   <a href="https://github.com/Bimbim15"><img title="Author" src="https://img.shields.io/badge/Author-Bimbim-purple.svg?style=for-the-badge&logo=github" /></a>
 </p>
 <p align="center">
