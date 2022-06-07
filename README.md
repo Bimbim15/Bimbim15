@@ -3,7 +3,7 @@
 
 # Bimbim
 
-> Bukan programmer hanya tukang recode
+> SHAPPPP
 >
 >
 
